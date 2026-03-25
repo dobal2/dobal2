@@ -13,8 +13,8 @@ Unity 기반 게임 개발자를 꿈꾸고 있습니다.
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| WaSans | Sans 전투에서 영감을 받은 2D 액션 플랫포머 보스러시 (Unity, 1인 개발) | [바로가기](https://github.com/dobal2/WaSans) |
-| Retry | Procedural 지형 위 3인칭 슈터 로그라이크 생존 게임 (Unity URP, 1인 개발) | [바로가기](https://github.com/dobal2/Retry) |
+| WaSans | 언더테일 샌즈에서 영감을 받은 2D 액션 플랫포머 보스러시 (Unity, 1인 개발) | [바로가기](https://github.com/dobal2/WaSans) |
+| Retry | Procedural 지형 위 1인칭 슈터 로그라이크 생존 게임 (Unity URP, 1인 개발) | [바로가기](https://github.com/dobal2/Retry) |
 | GameJam 2025 Space | 달 표면에서 거대 보스를 상대하는 3인칭 슈터 (Unity URP, 게임잼) | [바로가기](https://github.com/dobal2/GameJam-2025-Space) |
 
 ## 📫 연락처
